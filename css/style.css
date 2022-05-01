@@ -452,7 +452,7 @@ h3 { font-size: var(--fs-h3) }
 
 .project-card{
     width: 200px;
-    height: 500px;
+    height: 350px;
     box-shadow: var(--bs);
 }
 .project-container{
@@ -464,9 +464,11 @@ h3 { font-size: var(--fs-h3) }
     font-weight: var(--fw-reg);
 }
 .project-img{
-    margin-top: 25px;
-    width: 250px;
-    border-radius: 125px;;
+    /* margin-top: 25px; */
+    width: auto;
+    height: 150px; 
+    padding-bottom: 10px;;
+    /* border-radius: 125px;; */
 }
 hr{
     margin-left: 20px;
