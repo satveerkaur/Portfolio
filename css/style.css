@@ -383,6 +383,7 @@ h3 { font-size: var(--fs-h3) }
     transform 750ms cubic-bezier(.5, 0, .5, 1),
     opacity 250ms linear;
 }
+
 .portfolio__item:focus{
     position: relative;
     z-index: 2;
@@ -469,6 +470,9 @@ h3 { font-size: var(--fs-h3) }
     height: 150px; 
     padding-bottom: 10px;;
     /* border-radius: 125px;; */
+}
+.img-5{
+    background-color: white;
 }
 hr{
     margin-left: 20px;
