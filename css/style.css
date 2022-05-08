@@ -452,7 +452,7 @@ h3 { font-size: var(--fs-h3) }
 
 .project-card{
     width: 200px;
-    height: 350px;
+    height: 375px;
     box-shadow: var(--bs);
 }
 .project-container{
